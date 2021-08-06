@@ -1,0 +1,6 @@
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\Fourth\Fourth\bin\Debug\Fourth.exe.config
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\Fourth\Fourth\bin\Debug\Fourth.exe
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\Fourth\Fourth\bin\Debug\Fourth.pdb
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\Fourth\Fourth\obj\Debug\Fourth.csprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\Fourth\Fourth\obj\Debug\Fourth.exe
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\Fourth\Fourth\obj\Debug\Fourth.pdb
