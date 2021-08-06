@@ -1,0 +1,9 @@
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\bin\Debug\LEC 15.exe.config
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\bin\Debug\LEC 15.exe
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\bin\Debug\LEC 15.pdb
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\obj\Debug\LEC 15.csprojResolveAssemblyReference.cache
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\obj\Debug\LEC_15.Form1.resources
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\obj\Debug\LEC_15.Properties.Resources.resources
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\obj\Debug\LEC 15.csproj.GenerateResource.Cache
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\obj\Debug\LEC 15.exe
+c:\users\admin\onedrive\documents\visual studio 2013\Projects\LEC 15\LEC 15\obj\Debug\LEC 15.pdb
